@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<bets>
+  <bet>
+    <id>4</id>
+    <p1>5</p1>
+    <x>2</x>
+    <p2>4</p2>
+    <teamOne>ББ</teamOne>
+    <teamTwo>Cloud9</teamTwo>
+    <sport>Футбольчик</sport>
+    <date>11.06.2023 6:00</date>
+  </bet>,
+  <bet>
+    <id>1</id>
+    <p1>2</p1>
+    <x>1</x>
+    <p2>3</p2>
+    <teamOne>Хуй1</teamOne>
+    <teamTwo>Пизда2</teamTwo>
+    <sport>Дота</sport>
+    <date>15.06.2023 20:30</date>
+  </bet>,
+  <bet>
+    <id>3</id>
+    <p1>2</p1>
+    <x>3</x>
+    <p2>1</p2>
+    <teamOne>Вп</teamOne>
+    <teamTwo>Нави</teamTwo>
+    <sport>Дота</sport>
+    <date>15.05.2023 9:00</date>
+  </bet>,
+  <bet>
+    <id>2</id>
+    <p1>1</p1>
+    <x>1</x>
+    <p2>33</p2>
+    <teamOne>Мама</teamOne>
+    <teamTwo>Папа</teamTwo>
+    <sport>Бои без правил</sport>
+    <date>28.06.2023 10:00</date>
+  </bet>
+</bets>
